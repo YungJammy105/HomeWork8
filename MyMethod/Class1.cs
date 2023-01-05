@@ -1,4 +1,9 @@
-﻿namespace MyMethod;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace MyMethod;
 static public class MyMethod
 {
 
