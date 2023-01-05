@@ -106,7 +106,7 @@ static public class MyMethod
     /*========= Методы вывода в консоль ============*/
 
     // Печать простой строки с поддержкой интерполяции
-    public static void Print(string text)
+        public static void Print(string text)
     {
         Console.WriteLine(text);
     }
